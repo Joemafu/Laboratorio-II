@@ -1,0 +1,15 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\Ejercicio_06.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\Ejercicio_06.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\Ejercicio_06.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\Ejercicio_06.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\Ejercicio_06.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\ref\Ejercicio_06.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\bin\Debug\net5.0\Ejercicio_06.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\ref\Ejercicio_06.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_06\obj\Debug\net5.0\Ejercicio_06.genruntimeconfig.cache
