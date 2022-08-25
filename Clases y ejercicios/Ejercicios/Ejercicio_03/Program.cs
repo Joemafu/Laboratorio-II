@@ -6,7 +6,6 @@ namespace Ejercicio_03
     {
         static void Main(string[] args)
         {
-
             /*Consigna:
             Mostrar por pantalla todos los números primos que haya hasta el número que ingrese el usuario por consola.
 
@@ -20,7 +19,6 @@ namespace Ejercicio_03
             
             Importante:
             Utilizar sentencias de iteración, selectivas y el operador módulo(%).*/
-
 
             string ingresadoString;
             int ingresadoInt;

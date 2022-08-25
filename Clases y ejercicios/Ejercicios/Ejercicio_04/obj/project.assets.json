@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio_04\\Ejercicio_04.csproj",
-      "projectName": "Ejercicio_04",
-      "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio_04\\Ejercicio_04.csproj",
+      "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio_04\\Ejercicio1_04.csproj",
+      "projectName": "Ejercicio1_04",
+      "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio_04\\Ejercicio1_04.csproj",
       "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
       "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio_04\\obj\\",
       "projectStyle": "PackageReference",

@@ -10,27 +10,27 @@ namespace Ejercicio2_03
     {
         public static string ConvertirDecimalABinario(int numeroEntero)
         {
-            int binario = 1;
+            int valorBinario = 1;
             int contador = 1;
             string ret = "";
 
-            while (numeroEntero >= binario * 2)
+            while (numeroEntero >= valorBinario * 2)
             {
                 contador++;
-                binario = binario * 2;
+                valorBinario = valorBinario * 2;
             }
 
             for (; contador > 0; contador--)
             {
-                if (numeroEntero >= binario)
+                if (numeroEntero >= valorBinario)
                 {
                     ret += 1;
-                    numeroEntero -= binario;
+                    numeroEntero -= valorBinario;
                 } else
                 {
                     ret += 0;
                 }
-                binario = binario / 2;
+                valorBinario = valorBinario / 2;
             }
             return ret;
         }
@@ -41,24 +41,18 @@ namespace Ejercicio2_03
             string numString;
             int len;
             int i;
-            int binario=1;
 
             numString = numeroEntero.ToString();
 
             len = numString.Length;
 
-            for (i = 1; i < len; i++)
-            {
-                binario = binario * 2;
-            }
-
             foreach (char item in numString)
             {
                 if(item=='1')
-                {                    
-                    ret += binario;
+                {
+                    ret += (int)Math.Pow(2, len-1);
                 }
-                binario = binario / 2;
+                len--;
             }
 
             return ret;

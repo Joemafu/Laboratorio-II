@@ -14,7 +14,6 @@ namespace Ejercicio_01
             int min=0;
             int acumulador=0;
             float promedio;
-            bool flag = false;
 
             for (int i = 0; i<5; i++)
             {
@@ -23,16 +22,15 @@ namespace Ejercicio_01
 
                 acumulador += numero;
 
-                if (flag==false || numero < min)
+                if (i==0 || numero < min)
                 {
                     min = numero;
                     
                 }
-                if (flag == false || numero > max)
+                if (i == 0 || numero > max)
                 {
                     max = numero;
                 }
-                flag = true;
             }
             promedio = (float)acumulador / 5;
 

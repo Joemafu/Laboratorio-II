@@ -13,25 +13,25 @@ namespace Ejercicio_02
             Importante:
             Utilizar el método Pow de la clase Math para calcular las potencias.*/
 
+            float numero;
+            float cuadrado;
+            float cubo;
 
-            int numero;
-            int cuadrado;
-            int cubo;
+            Console.WriteLine("Ingrese un número:");
 
             do
             {
-                Console.WriteLine("Ingrese un número:");
-                numero = int.Parse(Console.ReadLine());
+                numero = float.Parse(Console.ReadLine());
 
-                if (numero < 1)
+                if (numero <= 0)
                 {
                     Console.WriteLine("ERROR. ¡Reingresar número!");
                 }
 
-            } while (numero < 1);
+            } while (numero <= 0);
 
-            cuadrado = (int)Math.Pow(numero, 2);
-            cubo = (int)Math.Pow(numero, 3);
+            cuadrado = (float)Math.Pow(numero, 2);
+            cubo = (float)Math.Pow(numero, 3);
 
             Console.WriteLine("\n\nEl cuadrado es {0}, el cubo es {1}", cuadrado, cubo);
         }

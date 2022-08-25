@@ -23,21 +23,17 @@ namespace Ejercicio2_03
 
             int ingresado;
 
-            do
+            Console.WriteLine("Ingrese un numero decimal: ");
+            if (int.TryParse(Console.ReadLine(), out ingresado))
             {
-                Console.WriteLine("Ingrese un numero decimal: ");
-                if (int.TryParse(Console.ReadLine(), out ingresado))
-                {
-                    Console.WriteLine(Conversor.ConvertirDecimalABinario(ingresado));
-                }
-
-            } while (true);
+                Console.WriteLine(Conversor.ConvertirDecimalABinario(ingresado));
+            }
 
             Console.WriteLine("Ingrese un numero binario: ");
             if (int.TryParse(Console.ReadLine(), out ingresado))
             {
                 Console.WriteLine(Conversor.ConvertirBinarioADecimal(ingresado));
-            }
+            }            
         }
     }
 }
