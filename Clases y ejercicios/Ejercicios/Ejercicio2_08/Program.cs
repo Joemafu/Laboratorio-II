@@ -13,7 +13,7 @@ namespace Ejercicio2_08
 
             Ayudarse con las funcionalidades del tipo DateTime para resolver el ejercicio.*/
 
-
+            Fecha.CalcularDiasTranscurridos();
         }
     }
 }
