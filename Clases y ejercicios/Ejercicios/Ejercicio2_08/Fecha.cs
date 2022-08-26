@@ -8,9 +8,8 @@ namespace Ejercicio2_08
 {
     class Fecha
     {
-        public static int CalcularDiasTranscurridos ()
+        public static void CalcularDiasTranscurridos ()
         {
-            int ret=0;
             DateTime fechaDeHoy;
             DateTime fechaIngresada;
             int aux;
@@ -67,8 +66,6 @@ namespace Ejercicio2_08
             } while (fechaIngresada < fechaDeHoy);
             
             Console.WriteLine("\nHan pasado " + aux + " días desde entonces.");
-
-            return ret;
         }
     }
 }
