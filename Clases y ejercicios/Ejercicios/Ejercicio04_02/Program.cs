@@ -12,10 +12,6 @@ namespace Ejercicio04_02
 
             https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/assets/images/diagramaConversor-32ee7e2889ce0f22f6c006523ef93e25.png
 
-            https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/assets/images/diagramaConversor-32ee7e2889ce0f22f6c006523ef93e25.png
-
-            https://codeutnfra.github.io/programacion_2_laboratorio_2_apuntes/assets/images/diagramaConversor-32ee7e2889ce0f22f6c006523ef93e25.png
-
             Se debe lograr que los objetos de estas clases se puedan sumar, restar y comparar entre sí con total normalidad como si fueran tipos numéricos, teniendo presente que 1 Euro equivale a 1,17 Dólares y 1 Dólar equivale a 102,65 Pesos.
 
             tip:
