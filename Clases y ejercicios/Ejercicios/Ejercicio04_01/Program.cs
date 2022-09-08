@@ -7,6 +7,10 @@ namespace Ejercicio04_01
     {
         static void Main(string[] args)
         {
+            #region Consigna:
+            /*Agregar un segundo objeto del tipo Sumador en el método Main y probar el código.*/
+            #endregion
+
             Sumador sumador1 = new Sumador();
             Sumador sumador2 = new Sumador(2);
 
