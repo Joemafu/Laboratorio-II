@@ -1,0 +1,38 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\Ejercicio4_en clase.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\Ejercicio4_en clase.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\Ejercicio4_en clase.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\Ejercicio4_en clase.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\ref\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\Ejercicio4_en clase.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\MiBiblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\bin\Debug\net5.0\MiBiblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.csproj.CopyComplete
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\ref\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio4_en clase\obj\Debug\net5.0\Ejercicio4_en clase.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\Ejercicio4_en clase.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\Ejercicio4_en clase.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\Ejercicio4_en clase.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\Ejercicio4_en clase.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\ref\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\Ejercicio4_en clase.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\MiBiblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\bin\Debug\net5.0\MiBiblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.csproj.CopyComplete
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\ref\Ejercicio4_en clase.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_en clase\obj\Debug\net5.0\Ejercicio4_en clase.genruntimeconfig.cache

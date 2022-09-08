@@ -1,0 +1,16 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\ref\Ejercicio_04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\ref\Ejercicio_04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre\Clases y ejercicios\Mahafud.Joel\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.genruntimeconfig.cache

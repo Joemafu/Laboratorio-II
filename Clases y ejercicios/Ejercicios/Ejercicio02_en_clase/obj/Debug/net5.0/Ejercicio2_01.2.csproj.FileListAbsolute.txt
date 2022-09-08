@@ -1,0 +1,16 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\Ejercicio2_01.2.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\Ejercicio2_01.2.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\Ejercicio2_01.2.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\Ejercicio2_01.2.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\Ejercicio2_01.2.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\ref\Ejercicio2_01.2.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\bin\Debug\net5.0\Ejercicio2_01.2.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\ref\Ejercicio2_01.2.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio2_01.2\obj\Debug\net5.0\Ejercicio2_01.2.csproj.AssemblyReference.cache
