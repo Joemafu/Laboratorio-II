@@ -17,9 +17,3 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\MiBiblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\MiBiblioteca.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\obj\Debug\net5.0\Ejercicio03_02.csproj.CopyComplete
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\Ejercicio02_03.deps.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\Ejercicio02_03.runtimeconfig.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\Ejercicio02_03.runtimeconfig.dev.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\Ejercicio02_03.exe
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\Ejercicio02_03.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_02\bin\Debug\net5.0\Ejercicio02_03.pdb
