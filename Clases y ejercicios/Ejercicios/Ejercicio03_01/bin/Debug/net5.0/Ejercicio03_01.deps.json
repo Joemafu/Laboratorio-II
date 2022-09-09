@@ -14,7 +14,15 @@
           "Ejercicio03_01.dll": {}
         }
       },
+      "Ejercicio02_03/1.0.0": {
+        "runtime": {
+          "Ejercicio02_03.dll": {}
+        }
+      },
       "MiBiblioteca/1.0.0": {
+        "dependencies": {
+          "Ejercicio02_03": "1.0.0"
+        },
         "runtime": {
           "MiBiblioteca.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "Ejercicio03_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio02_03/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

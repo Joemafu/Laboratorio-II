@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio02_03
 {
-    class Conversor
+    public class Conversor
     {
         public static string ConvertirDecimalABinario(int numeroEntero)
         {

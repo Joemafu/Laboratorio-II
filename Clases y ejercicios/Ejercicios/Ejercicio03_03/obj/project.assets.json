@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Ejercicio02_03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ejercicio02_03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicio02_03.dll": {}
+        }
+      },
       "MiBiblioteca/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ejercicio02_03": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MiBiblioteca.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Ejercicio02_03/1.0.0": {
+      "type": "project",
+      "path": "../Ejercicio02_03/Ejercicio02_03.csproj",
+      "msbuildProject": "../Ejercicio02_03/Ejercicio02_03.csproj"
+    },
     "MiBiblioteca/1.0.0": {
       "type": "project",
       "path": "../MiBiblioteca/MiBiblioteca.csproj",
