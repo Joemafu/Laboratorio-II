@@ -36,3 +36,9 @@ C:\Users\joe_m\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y e
 C:\Users\joe_m\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\obj\Debug\net5.0\ref\Ejercicio04_02.dll
 C:\Users\joe_m\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\obj\Debug\net5.0\Ejercicio04_02.pdb
 C:\Users\joe_m\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\obj\Debug\net5.0\Ejercicio04_02.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\bin\Debug\net5.0\Ejercicio02_03.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\bin\Debug\net5.0\Ejercicio02_03.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\bin\Debug\net5.0\Ejercicio02_03.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\bin\Debug\net5.0\Ejercicio02_03.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\bin\Debug\net5.0\Ejercicio02_03.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio04_02\bin\Debug\net5.0\Ejercicio02_03.pdb

@@ -26,26 +26,26 @@ namespace Ejercicio03_01
             En el método Main, simular depósitos y extracciones de dinero de la cuenta, e ir mostrando como va variando el saldo.*/
             #endregion
 
-            Cuenta cuentita = new Cuenta("Jose", 65.65);
+            Cuenta cuentita = new Cuenta("Jose", 65.65);   // = 65.65
 
             Console.WriteLine(cuentita.Mostrar());
 
-            cuentita.Ingresar(34.35);
+            cuentita.Ingresar(34.35);   // = 100.00
             Console.WriteLine(cuentita.Mostrar());
 
-            cuentita.Ingresar(50.50);
+            cuentita.Ingresar(50.50);   // = 150.50
             Console.WriteLine(cuentita.Mostrar());
 
-            cuentita.Retirar(50.50);
+            cuentita.Retirar(50.50);   // = 100.00
             Console.WriteLine(cuentita.Mostrar());
 
-            cuentita.Retirar(80.50);
+            cuentita.Retirar(80.50);   // = 19.50
             Console.WriteLine(cuentita.Mostrar());
 
-            cuentita.Retirar(80.50);
+            cuentita.Retirar(80.50);   // = -61
             Console.WriteLine(cuentita.Mostrar());
 
-            cuentita.Ingresar(-666.66);
+            cuentita.Ingresar(-666.66);   // Ingreso de numero negativo no válido = 100.00
             Console.WriteLine(cuentita.Mostrar());
         }
     }

@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Ejercicio02_03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ejercicio02_03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicio02_03.dll": {}
+        }
+      },
       "MiBiblioteca/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ejercicio02_03": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MiBiblioteca.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Ejercicio02_03/1.0.0": {
+      "type": "project",
+      "path": "../Ejercicio02_03/Ejercicio02_03.csproj",
+      "msbuildProject": "../Ejercicio02_03/Ejercicio02_03.csproj"
+    },
     "MiBiblioteca/1.0.0": {
       "type": "project",
       "path": "../MiBiblioteca/MiBiblioteca.csproj",
@@ -27,7 +45,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joel\\.nuget\\packages\\": {}
+    "C:\\Users\\mahafudj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -35,11 +53,11 @@
       "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_02\\Ejercicio04_02.csproj",
       "projectName": "Ejercicio04_02",
       "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_02\\Ejercicio04_02.csproj",
-      "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
       "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
