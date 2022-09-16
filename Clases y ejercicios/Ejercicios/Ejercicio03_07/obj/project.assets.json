@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Ejercicio03_Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ejercicio03_Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicio03_Biblioteca.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ejercicio03_Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Ejercicio03_Biblioteca/Ejercicio03_Biblioteca.csproj",
+      "msbuildProject": "../Ejercicio03_Biblioteca/Ejercicio03_Biblioteca.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Ejercicio03_Biblioteca >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mahafudj\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio03_Biblioteca\\Ejercicio03_Biblioteca.csproj": {
+              "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio03_Biblioteca\\Ejercicio03_Biblioteca.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

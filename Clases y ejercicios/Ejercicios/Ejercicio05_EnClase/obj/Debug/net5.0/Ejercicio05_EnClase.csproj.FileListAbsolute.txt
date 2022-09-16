@@ -16,10 +16,6 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05EnClase\obj\Debug\net5.0\ref\Ejercicio05_EnClase.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.genruntimeconfig.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio02_03.deps.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio02_03.runtimeconfig.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio02_03.runtimeconfig.dev.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio02_03.exe
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_EnClase.exe
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_EnClase.deps.json
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_EnClase.runtimeconfig.json
@@ -27,10 +23,6 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_EnClase.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\ref\Ejercicio05_EnClase.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_EnClase.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio02_03.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\MiBiblioteca.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\MiBiblioteca.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio02_03.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.csproj.AssemblyReference.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.GeneratedMSBuildEditorConfig.editorconfig
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.AssemblyInfoInputs.cache
@@ -41,3 +33,5 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\obj\Debug\net5.0\ref\Ejercicio05_EnClase.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\obj\Debug\net5.0\Ejercicio05_EnClase.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_EnClase\bin\Debug\net5.0\Ejercicio05_Biblioteca.pdb

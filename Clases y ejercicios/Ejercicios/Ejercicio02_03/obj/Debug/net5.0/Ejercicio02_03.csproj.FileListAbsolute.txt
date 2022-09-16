@@ -5,7 +5,6 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\bin\Debug\net5.0\Ejercicio02_03.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\bin\Debug\net5.0\ref\Ejercicio02_03.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\bin\Debug\net5.0\Ejercicio02_03.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.csproj.AssemblyReference.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.GeneratedMSBuildEditorConfig.editorconfig
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.AssemblyInfoInputs.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.AssemblyInfo.cs
@@ -14,3 +13,7 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\ref\Ejercicio02_03.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\bin\Debug\net5.0\Ejercicio02_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\bin\Debug\net5.0\Ejercicio02_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_03\obj\Debug\net5.0\Ejercicio02_03.csproj.CopyComplete

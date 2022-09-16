@@ -1,0 +1,12 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\bin\Debug\net5.0\Clase07 Biblioteca.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\bin\Debug\net5.0\Clase07 Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\bin\Debug\net5.0\ref\Clase07 Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\bin\Debug\net5.0\Clase07 Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\ref\Clase07 Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Clase07 Biblioteca\obj\Debug\net5.0\Clase07 Biblioteca.csproj.AssemblyReference.cache

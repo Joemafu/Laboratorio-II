@@ -5,7 +5,6 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\bin\Debug\net5.0\Ejercicio01_01.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\bin\Debug\net5.0\ref\Ejercicio01_01.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\bin\Debug\net5.0\Ejercicio01_01.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.csproj.AssemblyReference.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.GeneratedMSBuildEditorConfig.editorconfig
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.AssemblyInfoInputs.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.AssemblyInfo.cs
@@ -14,3 +13,4 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\ref\Ejercicio01_01.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio01_01\obj\Debug\net5.0\Ejercicio01_01.csproj.AssemblyReference.cache

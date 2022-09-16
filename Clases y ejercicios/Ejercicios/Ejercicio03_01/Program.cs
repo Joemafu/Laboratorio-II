@@ -1,5 +1,5 @@
 ﻿using System;
-using MiBiblioteca;
+using Ejercicio03_Biblioteca;
 
 namespace Ejercicio03_01
 {

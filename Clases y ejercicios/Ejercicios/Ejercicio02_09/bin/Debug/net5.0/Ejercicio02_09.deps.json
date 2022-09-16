@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Ejercicio02_09/1.0.0": {
+        "dependencies": {
+          "Ejercicio02_Biblioteca": "1.0.0"
+        },
         "runtime": {
           "Ejercicio02_09.dll": {}
+        }
+      },
+      "Ejercicio02_Biblioteca/1.0.0": {
+        "runtime": {
+          "Ejercicio02_Biblioteca.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Ejercicio02_09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio02_Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

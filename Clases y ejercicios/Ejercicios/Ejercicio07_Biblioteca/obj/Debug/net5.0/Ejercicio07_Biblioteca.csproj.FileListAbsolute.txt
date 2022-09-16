@@ -1,0 +1,11 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\bin\Debug\net5.0\Ejercicio07_Biblioteca.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\bin\Debug\net5.0\Ejercicio07_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\bin\Debug\net5.0\ref\Ejercicio07_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\bin\Debug\net5.0\Ejercicio07_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\Ejercicio07_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\Ejercicio07_Biblioteca.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\Ejercicio07_Biblioteca.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\Ejercicio07_Biblioteca.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\Ejercicio07_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\ref\Ejercicio07_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\obj\Debug\net5.0\Ejercicio07_Biblioteca.pdb

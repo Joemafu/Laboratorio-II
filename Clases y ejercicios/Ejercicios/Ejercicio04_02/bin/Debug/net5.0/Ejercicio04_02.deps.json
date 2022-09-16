@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v5.0": {
       "Ejercicio04_02/1.0.0": {
         "dependencies": {
-          "MiBiblioteca": "1.0.0"
+          "Ejercicio04_Biblioteca": "1.0.0"
         },
         "runtime": {
           "Ejercicio04_02.dll": {}
         }
       },
-      "Ejercicio02_03/1.0.0": {
+      "Ejercicio02_Biblioteca/1.0.0": {
         "runtime": {
-          "Ejercicio02_03.dll": {}
+          "Ejercicio02_Biblioteca.dll": {}
         }
       },
-      "MiBiblioteca/1.0.0": {
+      "Ejercicio04_Biblioteca/1.0.0": {
         "dependencies": {
-          "Ejercicio02_03": "1.0.0"
+          "Ejercicio02_Biblioteca": "1.0.0"
         },
         "runtime": {
-          "MiBiblioteca.dll": {}
+          "Ejercicio04_Biblioteca.dll": {}
         }
       }
     }
@@ -35,12 +35,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Ejercicio02_03/1.0.0": {
+    "Ejercicio02_Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MiBiblioteca/1.0.0": {
+    "Ejercicio04_Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

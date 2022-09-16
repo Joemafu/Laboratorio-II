@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ejercicio03_Biblioteca\Ejercicio03_Biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,5 +1,5 @@
 ﻿using System;
-using MiBiblioteca;
+using Ejercicio03_Biblioteca;
 
 namespace Ejercicio03_04
 {
@@ -14,7 +14,7 @@ namespace Ejercicio03_04
             Al utilizar el método Pintar, si corresponde, se deberá dibujar por pantalla con el color de dicho bolígrafo.*/
             #endregion
 
-            /*string dibujo;
+            string dibujo;
 
             Boligrafo boligrafo1 = new Boligrafo(100, ConsoleColor.Blue);
             Boligrafo boligrafo2 = new Boligrafo(50, ConsoleColor.Red);
@@ -44,63 +44,7 @@ namespace Ejercicio03_04
 
             boligrafo1.Recargar();
 
-            Console.WriteLine($"Boligrafo {boligrafo1.GetColor()} tiene {boligrafo1.GetTinta()} de tinta:");*/
-
-
-
-
-
-
-            Console.Title = "Ejercicio Nro 17";
-
-            Boligrafo pen1 = new Boligrafo(100, ConsoleColor.Blue);
-            Boligrafo pen2 = new Boligrafo(50, ConsoleColor.Red);
-
-            string trazoPen1;
-            string trazoPen2;
-
-            /*muestro color y nivel de tinta*/
-            Console.WriteLine(pen1.GetColor());
-            Console.WriteLine(pen2.GetColor());
-            Console.WriteLine(pen1.GetTinta());
-            Console.WriteLine(pen2.GetTinta());
-
-            Console.WriteLine("----------------------");
-
-            /*pinto*/
-            pen1.Pintar(20, out trazoPen1);
-            Console.WriteLine(pen1.GetTinta());/*80*/
-            /*muestro trazo*/
-
-            Console.ForegroundColor = pen1.GetColor();
-            Console.WriteLine(trazoPen1);
-            Console.ForegroundColor = ConsoleColor.Gray;
-
-            Console.WriteLine("-----------------------");
-
-            pen2.Pintar(60, out trazoPen2);
-            Console.WriteLine(pen2.GetTinta());/*0*/
-
-            Console.ForegroundColor = pen2.GetColor();
-            Console.WriteLine(trazoPen2);
-            Console.ForegroundColor = ConsoleColor.Gray;
-
-            Console.WriteLine("-----------------------");
-
-            pen2.Pintar(60, out trazoPen2);/*no se puede*/
-            Console.WriteLine(pen2.GetTinta());
-
-            Console.ForegroundColor = pen2.GetColor();
-            Console.WriteLine(trazoPen2);
-            Console.ForegroundColor = ConsoleColor.Gray;
-
-            Console.WriteLine("-----------------------");
-            pen2.Recargar();
-            Console.WriteLine(pen2.GetTinta());
-
-
-            Console.ReadKey(true);
-
+            Console.WriteLine($"Boligrafo {boligrafo1.GetColor()} tiene {boligrafo1.GetTinta()} de tinta:");
         }
     }
 }

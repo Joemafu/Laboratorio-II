@@ -1,0 +1,17 @@
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\Ejercicio06_EnClase04.exe
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\Ejercicio06_EnClase04.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\Ejercicio06_EnClase04.runtimeconfig.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\Ejercicio06_EnClase04.runtimeconfig.dev.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\Ejercicio06_EnClase04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\ref\Ejercicio06_EnClase04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\bin\Debug\net5.0-windows\Ejercicio06_EnClase04.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.csproj.GenerateResource.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\ref\Ejercicio06_EnClase04.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.frmPrincipal.resources

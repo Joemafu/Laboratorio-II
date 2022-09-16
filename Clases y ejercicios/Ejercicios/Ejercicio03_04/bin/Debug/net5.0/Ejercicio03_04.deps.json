@@ -8,23 +8,15 @@
     ".NETCoreApp,Version=v5.0": {
       "Ejercicio03_04/1.0.0": {
         "dependencies": {
-          "MiBiblioteca": "1.0.0"
+          "Ejercicio03_Biblioteca": "1.0.0"
         },
         "runtime": {
           "Ejercicio03_04.dll": {}
         }
       },
-      "Ejercicio02_03/1.0.0": {
+      "Ejercicio03_Biblioteca/1.0.0": {
         "runtime": {
-          "Ejercicio02_03.dll": {}
-        }
-      },
-      "MiBiblioteca/1.0.0": {
-        "dependencies": {
-          "Ejercicio02_03": "1.0.0"
-        },
-        "runtime": {
-          "MiBiblioteca.dll": {}
+          "Ejercicio03_Biblioteca.dll": {}
         }
       }
     }
@@ -35,12 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Ejercicio02_03/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MiBiblioteca/1.0.0": {
+    "Ejercicio03_Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
