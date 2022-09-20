@@ -1,5 +1,5 @@
 ﻿using System;
-using Clase07_Biblioteca;
+using Ejercicio07_Biblioteca;
 
 namespace Ejercicio07_EnClase01
 {

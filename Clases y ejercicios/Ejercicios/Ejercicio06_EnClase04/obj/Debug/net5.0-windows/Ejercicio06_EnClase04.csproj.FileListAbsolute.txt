@@ -15,3 +15,4 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.genruntimeconfig.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.frmPrincipal.resources
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase04\obj\Debug\net5.0-windows\Ejercicio06_EnClase04.csproj.AssemblyReference.cache

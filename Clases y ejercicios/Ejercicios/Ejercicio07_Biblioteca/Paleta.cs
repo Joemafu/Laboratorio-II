@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase07_Biblioteca
+namespace Ejercicio07_Biblioteca
 {
     public class Paleta
     {
@@ -77,6 +77,12 @@ namespace Clase07_Biblioteca
                     this.temperas[i] = value;
                 }                
             }
+        }
+
+        public int CantidadTemperas
+        {
+            get { return this.temperas.Count; }
+            //set {  }
         }
 
         private Paleta()

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using Clase07_Biblioteca;
+using Ejercicio07_Biblioteca;
 //agregar using a las entidades
 
 

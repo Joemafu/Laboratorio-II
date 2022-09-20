@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Clase07_Biblioteca
+namespace Ejercicio07_Biblioteca
 {
     public class Tempera
     {
@@ -45,6 +45,24 @@ namespace Clase07_Biblioteca
             this.color = color;
             this.marca = marca;
             this.cantidad = cantidad;
+        }
+
+        public string Marca
+        {
+            get
+            {
+                return this.marca;
+            }
+            //set{} 
+        }
+
+        public ConsoleColor Color
+        {
+            get
+            {
+                return this.color;
+            }
+            //set{} 
         }
 
         private string Mostrar()

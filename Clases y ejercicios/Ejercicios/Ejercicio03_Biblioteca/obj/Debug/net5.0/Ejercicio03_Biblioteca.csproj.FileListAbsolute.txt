@@ -9,3 +9,4 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_Biblioteca\obj\Debug\net5.0\Ejercicio03_Biblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_Biblioteca\obj\Debug\net5.0\ref\Ejercicio03_Biblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_Biblioteca\obj\Debug\net5.0\Ejercicio03_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio03_Biblioteca\obj\Debug\net5.0\Ejercicio03_Biblioteca.csproj.AssemblyReference.cache

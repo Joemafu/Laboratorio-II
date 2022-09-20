@@ -10,11 +10,11 @@
         "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio05_Biblioteca\\Ejercicio05_Biblioteca.csproj",
         "projectName": "Ejercicio05_Biblioteca",
         "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio05_Biblioteca\\Ejercicio05_Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
         "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio05_Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,11 +64,11 @@
         "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio05_EnClase\\Ejercicio05_EnClase.csproj",
         "projectName": "Ejercicio05_EnClase",
         "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio05_EnClase\\Ejercicio05_EnClase.csproj",
-        "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
         "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio05_EnClase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

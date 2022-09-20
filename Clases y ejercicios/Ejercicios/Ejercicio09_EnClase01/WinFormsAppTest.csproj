@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Ejercicio07_Biblioteca">
+      <HintPath>G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\bin\Debug\net5.0\Ejercicio07_Biblioteca.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

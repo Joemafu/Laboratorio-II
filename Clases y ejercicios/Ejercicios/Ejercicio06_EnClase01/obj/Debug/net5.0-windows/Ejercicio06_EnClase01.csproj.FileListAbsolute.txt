@@ -33,3 +33,4 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase01\obj\Debug\net5.0-windows\ref\Ejercicio06_EnClase01.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase01\obj\Debug\net5.0-windows\Ejercicio06_EnClase01.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase01\obj\Debug\net5.0-windows\Ejercicio06_EnClase01.genruntimeconfig.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio06_EnClase01\obj\Debug\net5.0-windows\Ejercicio06_EnClase01.csproj.AssemblyReference.cache

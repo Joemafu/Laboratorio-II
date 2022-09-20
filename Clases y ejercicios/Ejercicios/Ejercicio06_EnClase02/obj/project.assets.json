@@ -8,7 +8,7 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mahafudj\\.nuget\\packages\\": {}
+    "C:\\Users\\Joel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj",
       "projectName": "Ejercicio06_EnClase02",
       "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj",
-      "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
       "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -111,6 +111,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio04_Biblioteca", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio06_EnClase01", "Ejercicio06_EnClase01\Ejercicio06_EnClase01.csproj", "{6A77202E-DBEA-49F7-ABEB-3FA5BDB00584}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase09 Herencia", "Clase09 Herencia", "{B23B14E8-242B-43BE-83A2-205C2E1D54EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTest", "Ejercicio09_EnClase01\WinFormsAppTest.csproj", "{A3D41C5A-FD6C-4569-A39C-F571A40EE0DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -301,6 +305,10 @@ Global
 		{6A77202E-DBEA-49F7-ABEB-3FA5BDB00584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A77202E-DBEA-49F7-ABEB-3FA5BDB00584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A77202E-DBEA-49F7-ABEB-3FA5BDB00584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D41C5A-FD6C-4569-A39C-F571A40EE0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D41C5A-FD6C-4569-A39C-F571A40EE0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D41C5A-FD6C-4569-A39C-F571A40EE0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D41C5A-FD6C-4569-A39C-F571A40EE0DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -352,6 +360,7 @@ Global
 		{5D531289-FBA2-49E8-9492-152B16003D9E} = {53D86125-7F85-4B32-BC29-6477018ED0F9}
 		{2387294C-B288-4B90-9C74-F6382763F544} = {9E1D91BC-25A1-4862-BFD8-F2944F26B020}
 		{6A77202E-DBEA-49F7-ABEB-3FA5BDB00584} = {540463A1-4957-487E-AF8D-A46AC22534FC}
+		{A3D41C5A-FD6C-4569-A39C-F571A40EE0DF} = {B23B14E8-242B-43BE-83A2-205C2E1D54EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1052567B-D9F6-4E4E-89DA-104BCAF6828D}

@@ -10,11 +10,11 @@
         "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio02_04\\Ejercicio02_04.csproj",
         "projectName": "Ejercicio02_04",
         "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio02_04\\Ejercicio02_04.csproj",
-        "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
         "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio02_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,11 +68,11 @@
         "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio02_Biblioteca\\Ejercicio02_Biblioteca.csproj",
         "projectName": "Ejercicio02_Biblioteca",
         "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio02_Biblioteca\\Ejercicio02_Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
         "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio02_Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
