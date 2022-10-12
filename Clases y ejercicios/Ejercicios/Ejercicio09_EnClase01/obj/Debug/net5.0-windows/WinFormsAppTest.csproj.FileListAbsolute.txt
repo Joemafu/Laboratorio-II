@@ -1,79 +1,3 @@
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.exe
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.deps.json
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.json
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.dev.json
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.dll
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.pdb
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\Entidades.dll
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\Entidades.pdb
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.AssemblyReference.cache
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.Form1.resources
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.FrmTempera.resources
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.GenerateResource.cache
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfoInputs.cache
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfo.cs
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CoreCompileInputs.cache
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CopyComplete
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.dll
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.pdb
-C:\Users\Maxi\source\repos\2022_NetCore5\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.genruntimeconfig.cache
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.Form1.resources
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.FrmTempera.resources
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.GenerateResource.cache
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfoInputs.cache
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfo.cs
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CoreCompileInputs.cache
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.dll
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.pdb
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.exe
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.deps.json
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.json
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.dev.json
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.dll
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\WinFormsAppTest.pdb
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\Ejercicio07_Biblioteca.dll
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\bin\Debug\net5.0-windows\Ejercicio07_Biblioteca.pdb
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CopyComplete
-C:\Users\Joel\Downloads\TemperaPaleta2022\WinFormsAppTest\obj\Debug\net5.0-windows\WinFormsAppTest.genruntimeconfig.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.exe
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.deps.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.dev.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\Ejercicio07_Biblioteca.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\Ejercicio07_Biblioteca.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.AssemblyReference.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.Form1.resources
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.FrmTempera.resources
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.GenerateResource.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.GeneratedMSBuildEditorConfig.editorconfig
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfoInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfo.cs
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CoreCompileInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CopyComplete
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.genruntimeconfig.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.AssemblyReference.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.Form1.resources
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.FrmTempera.resources
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.GenerateResource.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.GeneratedMSBuildEditorConfig.editorconfig
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfoInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfo.cs
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CoreCompileInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\ref\WinFormsAppTest.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.exe
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.deps.json
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.runtimeconfig.json
@@ -83,5 +7,16 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases 
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\WinFormsAppTest.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\Ejercicio07_Biblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\bin\Debug\net5.0-windows\Ejercicio07_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.Form1.resources
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.FrmTempera.resources
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.GenerateResource.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CoreCompileInputs.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.csproj.CopyComplete
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\ref\WinFormsAppTest.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio09_EnClase01\obj\Debug\net5.0-windows\WinFormsAppTest.genruntimeconfig.cache

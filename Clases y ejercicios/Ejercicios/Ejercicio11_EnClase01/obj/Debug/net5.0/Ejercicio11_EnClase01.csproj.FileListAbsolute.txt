@@ -1,9 +1,4 @@
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\CoverletSourceRootsMapping
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.csproj.AssemblyReference.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.GeneratedMSBuildEditorConfig.editorconfig
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.AssemblyInfoInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.AssemblyInfo.cs
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.csproj.CoreCompileInputs.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\testhost.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\testhost.exe
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -95,6 +90,11 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases 
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\Ejercicio11_Biblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\bin\Debug\net5.0\Ejercicio11_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.csproj.CoreCompileInputs.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.csproj.CopyComplete
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\Ejercicio11_EnClase01.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio11_EnClase01\obj\Debug\net5.0\ref\Ejercicio11_EnClase01.dll

@@ -1,15 +1,3 @@
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\Ejercicio02_Biblioteca.deps.json
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\Ejercicio02_Biblioteca.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\ref\Ejercicio02_Biblioteca.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\Ejercicio02_Biblioteca.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.AssemblyInfoInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.AssemblyInfo.cs
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.csproj.CoreCompileInputs.cache
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\ref\Ejercicio02_Biblioteca.dll
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.pdb
-G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\obj\Debug\net5.0\Ejercicio02_Biblioteca.csproj.AssemblyReference.cache
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\Ejercicio02_Biblioteca.deps.json
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\Ejercicio02_Biblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio02_Biblioteca\bin\Debug\net5.0\ref\Ejercicio02_Biblioteca.dll
