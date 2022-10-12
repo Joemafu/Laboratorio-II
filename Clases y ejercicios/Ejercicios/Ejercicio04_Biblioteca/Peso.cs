@@ -125,5 +125,26 @@ namespace Billetes
         {
             return p1.cantidad == p2.cantidad;
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+
+            if (this is null && obj is null)
+            {
+                ret = true;
+            }
+            else if (obj is not null && obj is Peso)
+            {
+                ret = (Peso)obj == this;
+            }
+
+            return ret;
+        }
     }
 }

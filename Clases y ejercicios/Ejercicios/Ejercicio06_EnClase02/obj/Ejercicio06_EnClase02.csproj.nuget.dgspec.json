@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj": {}
+    "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj": {}
   },
   "projects": {
-    "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj": {
+    "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj",
+        "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj",
         "projectName": "Ejercicio06_EnClase02",
-        "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj",
-        "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
-        "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\obj\\",
+        "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\Ejercicio06_EnClase02.csproj",
+        "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+        "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio06_EnClase02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "Ejercicio07_Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ejercicio07_Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicio07_Biblioteca.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ejercicio07_Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Ejercicio07_Biblioteca/Ejercicio07_Biblioteca.csproj",
+      "msbuildProject": "../Ejercicio07_Biblioteca/Ejercicio07_Biblioteca.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "Ejercicio07_Biblioteca >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Joel\\.nuget\\packages\\": {}
+    "C:\\Users\\mahafudj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio09_EnClase01\\WinFormsAppTest.csproj",
+      "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio09_EnClase01\\WinFormsAppTest.csproj",
       "projectName": "WinFormsAppTest",
-      "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio09_EnClase01\\WinFormsAppTest.csproj",
-      "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
-      "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio09_EnClase01\\obj\\",
+      "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio09_EnClase01\\WinFormsAppTest.csproj",
+      "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+      "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio09_EnClase01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio07_Biblioteca\\Ejercicio07_Biblioteca.csproj": {
+              "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio07_Biblioteca\\Ejercicio07_Biblioteca.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -120,5 +120,26 @@ namespace Ejercicio07_Biblioteca
             tempera.cantidad += cantidad;
             return tempera;
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+
+            if (this is null && obj is null)
+            {
+                ret = true;
+            }
+            else if (obj is not null && obj is Tempera)
+            {
+                ret = (Tempera)obj == this;
+            }
+
+            return ret;
+        }
     }
 }

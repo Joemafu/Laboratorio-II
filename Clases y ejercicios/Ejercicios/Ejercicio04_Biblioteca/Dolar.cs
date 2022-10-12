@@ -119,5 +119,26 @@ namespace Billetes
         {
             return d1.cantidad == d2.cantidad;
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+
+            if (this is null && obj is null)
+            {
+                ret = true;
+            }
+            else if (obj is not null && obj is Dolar)
+            {
+                ret = (Dolar)obj == this;
+            }
+
+            return ret;
+        }
     }
 }

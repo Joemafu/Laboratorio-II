@@ -45,19 +45,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joel\\.nuget\\packages\\": {}
+    "C:\\Users\\mahafudj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_EnClase\\Ejercicio04_EnClase.csproj",
+      "projectUniqueName": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_EnClase\\Ejercicio04_EnClase.csproj",
       "projectName": "Ejercicio04_EnClase",
-      "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_EnClase\\Ejercicio04_EnClase.csproj",
-      "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
-      "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_EnClase\\obj\\",
+      "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_EnClase\\Ejercicio04_EnClase.csproj",
+      "packagesPath": "C:\\Users\\mahafudj\\.nuget\\packages\\",
+      "outputPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_EnClase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahafudj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,8 +71,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_Biblioteca\\Ejercicio04_Biblioteca.csproj": {
-              "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_Biblioteca\\Ejercicio04_Biblioteca.csproj"
+            "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_Biblioteca\\Ejercicio04_Biblioteca.csproj": {
+              "projectPath": "G:\\Mi unidad\\Workspace\\2º Cuatrimestre C#\\Laboratorio-II\\Laboratorio-II\\Clases y ejercicios\\Ejercicios\\Ejercicio04_Biblioteca\\Ejercicio04_Biblioteca.csproj"
             }
           }
         }

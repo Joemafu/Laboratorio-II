@@ -10,3 +10,15 @@ G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ej
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\ref\Ejercicio05_Biblioteca.dll
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.pdb
 G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.csproj.AssemblyReference.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\bin\Debug\net5.0\Ejercicio05_Biblioteca.deps.json
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\bin\Debug\net5.0\Ejercicio05_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\bin\Debug\net5.0\ref\Ejercicio05_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\bin\Debug\net5.0\Ejercicio05_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.AssemblyInfoInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.AssemblyInfo.cs
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\ref\Ejercicio05_Biblioteca.dll
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.pdb
+G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio05_Biblioteca\obj\Debug\net5.0\Ejercicio05_Biblioteca.csproj.AssemblyReference.cache

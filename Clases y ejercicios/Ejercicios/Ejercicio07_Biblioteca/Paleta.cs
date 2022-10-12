@@ -190,5 +190,26 @@ namespace Ejercicio07_Biblioteca
 
             return ret;
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+
+            if (this is null && obj is null)
+            {
+                ret = true;
+            }
+            else if (obj is not null && obj is Paleta)
+            {
+                ret = (Paleta)obj == this;
+            }
+
+            return ret;
+        }
     }
 }

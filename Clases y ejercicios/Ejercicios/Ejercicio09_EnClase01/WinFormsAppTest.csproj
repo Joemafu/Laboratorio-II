@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="Ejercicio07_Biblioteca">
-      <HintPath>G:\Mi unidad\Workspace\2º Cuatrimestre C#\Laboratorio-II\Clases y ejercicios\Ejercicios\Ejercicio07_Biblioteca\bin\Debug\net5.0\Ejercicio07_Biblioteca.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\Ejercicio07_Biblioteca\Ejercicio07_Biblioteca.csproj" />
   </ItemGroup>
 
 </Project>

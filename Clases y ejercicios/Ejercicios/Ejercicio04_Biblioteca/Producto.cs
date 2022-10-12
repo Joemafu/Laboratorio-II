@@ -87,5 +87,25 @@ namespace Ejercicio04_Biblioteca
             return !(p1 == p2);
         }
 
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+
+            if (this is null && obj is null)
+            {
+                ret = true;
+            }
+            else if (obj is not null && obj is Producto)
+            {
+                ret = (Producto)obj == this;
+            }
+
+            return ret;
+        }
     }
 }

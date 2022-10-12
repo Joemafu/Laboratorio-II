@@ -82,5 +82,26 @@ namespace Ejercicio05_Biblioteca
         {
             return Mostrar(tinta);
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+
+            if (this is null && obj is null)
+            {
+                ret = true;
+            }
+            else if (obj is not null && obj is Tinta)
+            {
+                ret = (Tinta)obj == this;
+            }
+
+            return ret;
+        }
     }
 }
